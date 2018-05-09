@@ -5,8 +5,7 @@ public class Starforce {
 	static final int mesos = 55; //55m per try
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-
+		//Roflcopter
 		Scanner input = new Scanner(System.in);
 		System.out.println("Which tyrant equip would you like to starforce?");
 		System.out.println("1. Tyrant Gloves");
